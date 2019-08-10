@@ -3,5 +3,6 @@ function move(id){
     dom.style.display="block";
     dom.style.width="500px";
 
-	console.log(234);
+    console.log(234);
+    console.log("改变一");
 }
